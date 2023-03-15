@@ -19,3 +19,7 @@ main {
 .logo {
     width: 400px;
 }
+
+.paragrafo {
+    text-align: justify;
+}
