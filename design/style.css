@@ -14,3 +14,8 @@ main {
     padding: 14px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.425);
 }
+
+.logo {
+    width: 200px;
+    
+}
