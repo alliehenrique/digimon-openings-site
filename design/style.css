@@ -5,6 +5,7 @@
 
 body {
     background-color: aqua;
+    text-align: center;
 }
 
 main {
@@ -16,6 +17,5 @@ main {
 }
 
 .logo {
-    width: 200px;
-    
+    width: 400px;
 }
